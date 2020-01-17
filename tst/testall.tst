@@ -2,7 +2,7 @@
 # can be reproduced from copy n paste from GAP session
 # To run a single test, call 
 #
-#     Read("generatorsymmetricsubgroup.g");
+#     Read("../generatorsymmetricsubgroup.g");
 #     Test("testall.tst");
 #
 # in GAP (use full paths, if necessary)
