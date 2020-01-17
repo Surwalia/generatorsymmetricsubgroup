@@ -13,5 +13,5 @@
 
 # First, some examples
 
-gap> OrderNormalizedUnitGroup(3,3);
-gap> OrderNormalizedUnitGroup(7,2);
+gap> generatorsymmetricsubgroup(3,3);
+gap> generatorsymmetricsubgroup(7,2);
