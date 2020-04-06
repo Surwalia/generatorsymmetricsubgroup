@@ -1,6 +1,7 @@
 [![Build Status](https://travis-ci.org/Surwalia/generatorsymmetricsubgroup.svg?branch=master)](https://travis-ci.org/Surwalia/generatorsymmetricsubgroup)
 [![Code Coverage](https://codecov.io/github/Surwalia/units/coverage.svg?branch=master&token=)](https://codecov.io/gh/Surwalia/generatorsymmetricsubgroup)
 [![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/Surwalia/generatorsymmetricsubgroup/master)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3739066.svg)](https://doi.org/10.5281/zenodo.3739066)
 
 
 # Generator Symmetric Subgroup
@@ -14,4 +15,3 @@ The only functionality of GAP that has been used by the code is to make basic mu
 
 One can click on "launch binder" badge above in order to see the functioning of the code.
 
-The code has been published at Zenodo (see [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3739066.svg)](https://doi.org/10.5281/zenodo.3739066) ).
