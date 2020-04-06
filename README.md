@@ -12,4 +12,4 @@ The code takes a prime number p(> 3) and an integer n as inputs, where p^n denot
 
 The only functionality of GAP that has been used by the code is to make basic multiplications in a group ring. It can be easily seen from the demo in Jupyter Notebook that the code turns out to be highly efficient in obtaining the generator, since otherwise it is difficult and time-consuming to get all the invertible elements in the group ring FG, as the size of field F increases.
 
-One can click on "launch binder" batch above in order to see the functioning of the code.
+One can click on "launch binder" badge above in order to see the functioning of the code.
